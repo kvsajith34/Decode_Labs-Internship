@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-Audit%20Complete-brightgreen?style=for-the-badge)
 ![Text Models](https://img.shields.io/badge/Text%20Models-Grok%20%7C%20ChatGPT-blue?style=for-the-badge)
 ![Image Model](https://img.shields.io/badge/Image%20Model-Gemini%203.5%20Flash-orange?style=for-the-badge)
 ![Overall Score](https://img.shields.io/badge/Overall%20Score-4.51%20%2F%205-brightgreen?style=for-the-badge)
@@ -206,7 +205,7 @@ This framework tests whether AI models **refuse** harmful requests — not how t
 
 **Built by Venkata Sai Ajith Kancheti**
 [![GitHub](https://img.shields.io/badge/GitHub-kvsajith34-181717?style=flat&logo=github)](https://github.com/kvsajith34)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/your-linkedin-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/www.linkedin.com/in/venkata-sai-ajith-kancheti)
 
 *GuardRail AI — Because responsible AI deployment starts before the first user interaction.*
 
