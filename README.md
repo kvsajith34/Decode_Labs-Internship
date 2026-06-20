@@ -61,16 +61,28 @@ Decode_Labs-Internship/
 ```
 
 ---
-
 ## Completed Projects
 
-| Task | Project Name | Focus Area | Key Deliverables | Status |
-|------|--------------|------------|------------------|--------|
-| Task 1 | **Luxy Travel Persona** | Full-Stack Generative AI App | React + FastAPI app, system prompt, few-shot examples, multi-provider support | ✅ Completed |
-| Task 2 | **NeonCore AI Brand Kit** | Visual Generative AI | 5 brand assets, prompt engineering case study, image-to-image workflow | ✅ Completed |
-| Task 3 | **ClauseWise AI** | RAG & Document Intelligence | Structured extraction of 18 risks, 35 dates, 62+ stakeholders from a 69-page report | ✅ Completed |
-| Task 4 | **ViralClip AI** | Multimodal Content Automation | Whisper-based video pipeline, Streamlit app, MD/JSON/SRT exports, demo mode | ✅ Completed |
-| Task 5 | **GuardRail AI** | AI Safety & Bias Auditing | 30+ red-team tests across 3 models, scored audit report, deployment verdicts | ✅ Completed |
+| Task   | Project Name                             | Focus Area                                                      | Key Deliverables                                                                                                             |    Status   |
+| ------ | ---------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | :---------: |
+| Task 1 | Luxury AI Travel Planner                 | AI chatbot, prompt engineering, travel personalization          | Luxury travel consultant persona, AI chat interface, structured travel planning workflow, screenshots, documentation         | ✅ Completed |
+| Task 2 | Cyberpunk Corporate Brand Kit            | AI image generation, branding, visual design                    | Brand identity assets, AI-generated visuals, prompt documentation, style guide, final reflection                             | ✅ Completed |
+| Task 3 | ClauseWise AI RAG Document Intelligence  | Retrieval-Augmented Generation, document Q&A, citations         | RAG workflow, cited Q&A examples, hallucination testing, risk extraction, stakeholder/date analysis                          | ✅ Completed |
+| Task 4 | ViralClip AI Multimodal Content Engine   | Multimodal AI, transcript analysis, short-form content planning | Transcript outputs, viral segment detection, captions, hashtags, B-roll prompts, workflow documentation                      | ✅ Completed |
+| Task 5 | GuardRail AI Safety Bias Audit Framework | AI safety, bias testing, red-team evaluation                    | Safety tests, bias audit, hallucination tests, refusal-quality analysis, image-bias audit, scorecards, final recommendations | ✅ Completed |
+
+---
+
+## Internship Focus
+
+| Area                               | Description                                                                                                   |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Generative AI Applications         | Built practical AI-powered systems using prompts, chatbots, multimodal workflows, and content generation.     |
+| Prompt Engineering                 | Designed structured prompts for personas, brand generation, document intelligence, and safety testing.        |
+| AI Safety & Evaluation             | Tested AI systems for safety boundaries, bias, hallucination risk, refusal quality, and image representation. |
+| RAG & Document Intelligence        | Created document-based intelligence workflows with citation-focused outputs and hallucination controls.       |
+| Multimodal AI                      | Worked with text, image, transcript, and video-planning workflows for AI content generation.                  |
+| Documentation & Portfolio Building | Prepared professional README files, reports, testing evidence, screenshots, and final reflections.            |
 
 ---
 
@@ -128,14 +140,15 @@ A structured AI safety red-team audit framework evaluating Grok, ChatGPT, and Ge
 
 **Frameworks & Libraries**
 
-| Category | Tools |
-|---|---|
-| Frontend | React 19, Vite, Tailwind CSS, Framer Motion, React Router, Lucide React |
-| Backend | FastAPI, Uvicorn, Pydantic |
-| AI / LLM | Anthropic Claude, Google Gemini, Grok, ChatGPT (OpenAI), Stable Diffusion XL |
-| Audio / Video | OpenAI Whisper, faster-whisper, FFmpeg |
-| UI / Deployment | Streamlit, Claude Projects |
-| Tooling | Git, GitHub, VS Code |
+| Category              | Tools / Technologies                                                     |
+| --------------------- | ------------------------------------------------------------------------ |
+| AI Models & Platforms | Claude, ChatGPT, Grok, Gemini, Runway, Wispr AI                          |
+| Frontend              | React, Vite, HTML, CSS, JavaScript                                       |
+| Backend               | Python, FastAPI                                                          |
+| AI Workflows          | Prompt engineering, RAG, multimodal content generation, red-team testing |
+| Documentation         | Markdown, GitHub README, audit reports, testing reports                  |
+| Design & Media        | AI image generation, brand kit creation, visual prompt design            |
+| Version Control       | Git, GitHub                                                              |
 
 ---
 
@@ -148,25 +161,6 @@ A structured AI safety red-team audit framework evaluating Grok, ChatGPT, and Ge
 - **AI Safety Evaluation** — Red-team testing, bias auditing, refusal quality scoring, deployment risk assessment
 - **Generative Image AI** — Text-to-image and image-to-image workflows with consistent brand identity
 - **Technical Documentation** — README authoring, workflow reports, prompt case studies, test documentation
-
----
-
-## How to Explore
-
-Each task folder is fully self-contained with its own `README.md`, documentation, outputs, and prompts.
-
-Navigate to any task folder
-cd Task1-Luxury-ai-travel-planner/    # Full-stack AI travel app
-
-cd Task2-Cyberpunk-Corporate-Brand-Kit/  # AI visual brand assets
-
-cd Task3-ClauseWise-AI-RAG-Document-Intelligence/  # Document intelligence
-
-cd Task4-ViralClip-AI-Multimodal-Content-Engine/   # Video-to-reel pipeline
-
-cd Task5-GuardRail-AI-Safety-Bias-Audit/           # AI safety audit
-
-For tasks with runnable applications (Task 1 and Task 4), refer to the `README.md` inside the folder for environment setup and quick-start instructions.
 
 ---
 
